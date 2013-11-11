@@ -1,7 +1,8 @@
-name: BabyEggs
-main : com.minecraftdimensions.babyeggs.BabyEggs
+name: FactionsControl
+main : com.minecraftdimensions.factionscontrol.FactionsControl
 version: 1.0
-description: Spawns an egg instead of a baby mob
+description: Controls aspects of factions unique to our server
 author: Bloodsplat
+depend: [Factions]
 website: http://www.spigotmc.org/resources/bungeesuite.9/
-prefix: BabyEggs
+prefix: FactionsControl
